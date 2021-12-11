@@ -1,0 +1,30 @@
+body{
+  background-color: black;
+  text-align: center;
+
+}
+.name{
+  font-family: 'Fuzzy Bubbles', cursive;
+  font-size: 90px;
+  color: orange;
+
+}
+.abcd{
+  display: inline-block;
+  margin: 50px;
+}
+
+.a
+{
+  color: Green;
+  font-size: 50px;
+  font-family: 'Patrick Hand', cursive;
+  text-align: center;
+
+}
+footer{
+  color:Yellow;
+  text-align: center;
+  font-size: 20px;
+  font-family: 'Fuzzy Bubbles', cursive;
+}
